@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BMS_BQ76PL455.PcbDoc   01.02.2018  21:00:03
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BMS_BQ76PL455.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             9         PTH        0.35inch (8.80mm)
+T2      20mil (0.5mm)                                             Round             115       PTH        21.42inch (544.02mm)
+T3      24mil (0.6mm)                                             Round             6         PTH        4.56inch (115.92mm)
+T4      28mil (0.7mm)                                             Round             3         PTH        0.63inch (16.09mm)
+T5      35mil (0.9mm)                                             Round             16        PTH        1.98inch (50.40mm)
+T6      38mil (0.96mm)                                            Round             6         PTH        4.11inch (104.49mm)
+T7      39mil (1mm)                                               Round             69        PTH        9.62inch (244.40mm)
+T8      126mil (3.21mm)                                           Round             4         PTH        1.20inch (30.45mm)
+T9      39mil (1mm)                                               Round             2         NPTH       0.17inch (4.40mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              230
+
+Total Processing Time (hh:mm:ss) : 00:00:00

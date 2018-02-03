@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BAL0 Pin=X8-2
+Removed Pin From Net: NetName=BAL0 Pin=X11-1
+Added Pin To Net: NetName=NetR26_2 Pin=X8-2
+Added Pin To Net: NetName=NetR26_2 Pin=X11-1
+Change Net Name : Old Net Name=NetR26_2 New Net Name=LOW_CELL

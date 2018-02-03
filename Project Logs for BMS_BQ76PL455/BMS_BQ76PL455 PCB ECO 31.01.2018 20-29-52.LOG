@@ -1,0 +1,36 @@
+Added Component: Designator=X1(Klemm 17)
+Added Pin To Net: NetName=NetR26_2 Pin=X1-1
+Added Pin To Net: NetName=NetR26_2 Pin=X1-1
+Added Pin To Net: NetName=NetR25_2 Pin=X1-2
+Added Pin To Net: NetName=NetR25_2 Pin=X1-2
+Added Pin To Net: NetName=NetR23_2 Pin=X1-3
+Added Pin To Net: NetName=NetR23_2 Pin=X1-3
+Added Pin To Net: NetName=NetR22_2 Pin=X1-4
+Added Pin To Net: NetName=NetR22_2 Pin=X1-4
+Added Pin To Net: NetName=NetR20_2 Pin=X1-5
+Added Pin To Net: NetName=NetR20_2 Pin=X1-5
+Added Pin To Net: NetName=NetR18_2 Pin=X1-6
+Added Pin To Net: NetName=NetR18_2 Pin=X1-6
+Added Pin To Net: NetName=NetR17_2 Pin=X1-7
+Added Pin To Net: NetName=NetR17_2 Pin=X1-7
+Added Pin To Net: NetName=NetR16_2 Pin=X1-8
+Added Pin To Net: NetName=NetR16_2 Pin=X1-8
+Added Pin To Net: NetName=NetR15_2 Pin=X1-9
+Added Pin To Net: NetName=NetR15_2 Pin=X1-9
+Added Pin To Net: NetName=NetR14_2 Pin=X1-10
+Added Pin To Net: NetName=NetR14_2 Pin=X1-10
+Added Pin To Net: NetName=NetR13_2 Pin=X1-11
+Added Pin To Net: NetName=NetR13_2 Pin=X1-11
+Added Pin To Net: NetName=NetR12_2 Pin=X1-12
+Added Pin To Net: NetName=NetR12_2 Pin=X1-12
+Added Pin To Net: NetName=NetR11_2 Pin=X1-13
+Added Pin To Net: NetName=NetR11_2 Pin=X1-13
+Added Pin To Net: NetName=NetR10_2 Pin=X1-14
+Added Pin To Net: NetName=NetR10_2 Pin=X1-14
+Added Pin To Net: NetName=NetR5_2 Pin=X1-15
+Added Pin To Net: NetName=NetR5_2 Pin=X1-15
+Added Pin To Net: NetName=NetR4_2 Pin=X1-16
+Added Pin To Net: NetName=NetR4_2 Pin=X1-16
+Added Pin To Net: NetName=NetR3_2 Pin=X1-17
+Added Pin To Net: NetName=NetR3_2 Pin=X1-17
+Added Member To Class: ClassName=BMS_BQ76PL455 Member=Component X1 Klemmnik

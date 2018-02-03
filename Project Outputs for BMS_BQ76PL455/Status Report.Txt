@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BMS_BQ76PL455.PrjPcb]
+   Generated File[BMS_BQ76PL455.TXT]
+   Generated File[BMS_BQ76PL455.LDP]
+   Generated File[BMS_BQ76PL455.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 21:00:03 On 01.02.2018

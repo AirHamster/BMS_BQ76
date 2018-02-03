@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+12V Pin=X10-1
+Removed Pin From Net: NetName=-12V Pin=X10-3
+Added Component: Designator=D1(SMB_DIODE)
+Added Component: Designator=D2(SMB_DIODE)
+Added Pin To Net: NetName=-12V Pin=D1-1
+Added Pin To Net: NetName=+12V Pin=D2-2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=X10-3
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=X10-1
+Added Net: Name=NetD2_1
+Added Member To Class: ClassName=BMS_BQ76PL455 Member=Component D1 Diod
+Added Member To Class: ClassName=BMS_BQ76PL455 Member=Component D2 Diod

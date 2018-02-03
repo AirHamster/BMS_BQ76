@@ -1,0 +1,38 @@
+Added Component: Designator=X2(Pins 17x2 2.54)
+Added Component: Designator=X5(Pins 17x2 2.54)
+Added Pin To Net: NetName=NetR26_2 Pin=X2-1
+Added Pin To Net: NetName=NetR25_2 Pin=X2-2
+Added Pin To Net: NetName=NetR23_2 Pin=X2-3
+Added Pin To Net: NetName=NetR22_2 Pin=X2-4
+Added Pin To Net: NetName=NetR20_2 Pin=X2-5
+Added Pin To Net: NetName=NetR18_2 Pin=X2-6
+Added Pin To Net: NetName=NetR17_2 Pin=X2-7
+Added Pin To Net: NetName=NetR16_2 Pin=X2-8
+Added Pin To Net: NetName=NetR15_2 Pin=X2-9
+Added Pin To Net: NetName=NetR14_2 Pin=X2-10
+Added Pin To Net: NetName=NetR13_2 Pin=X2-11
+Added Pin To Net: NetName=NetR12_2 Pin=X2-12
+Added Pin To Net: NetName=NetR11_2 Pin=X2-13
+Added Pin To Net: NetName=NetR10_2 Pin=X2-14
+Added Pin To Net: NetName=NetR5_2 Pin=X2-15
+Added Pin To Net: NetName=NetR4_2 Pin=X2-16
+Added Pin To Net: NetName=NetR3_2 Pin=X2-17
+Added Pin To Net: NetName=NetR26_2 Pin=X5-1
+Added Pin To Net: NetName=NetR25_2 Pin=X5-2
+Added Pin To Net: NetName=NetR23_2 Pin=X5-3
+Added Pin To Net: NetName=NetR22_2 Pin=X5-4
+Added Pin To Net: NetName=NetR20_2 Pin=X5-5
+Added Pin To Net: NetName=NetR18_2 Pin=X5-6
+Added Pin To Net: NetName=NetR17_2 Pin=X5-7
+Added Pin To Net: NetName=NetR16_2 Pin=X5-8
+Added Pin To Net: NetName=NetR15_2 Pin=X5-9
+Added Pin To Net: NetName=NetR14_2 Pin=X5-10
+Added Pin To Net: NetName=NetR13_2 Pin=X5-11
+Added Pin To Net: NetName=NetR12_2 Pin=X5-12
+Added Pin To Net: NetName=NetR11_2 Pin=X5-13
+Added Pin To Net: NetName=NetR10_2 Pin=X5-14
+Added Pin To Net: NetName=NetR5_2 Pin=X5-15
+Added Pin To Net: NetName=NetR4_2 Pin=X5-16
+Added Pin To Net: NetName=NetR3_2 Pin=X5-17
+Added Member To Class: ClassName=BMS_BQ76PL455 Member=Component X2 Pins 17x2.54
+Added Member To Class: ClassName=BMS_BQ76PL455 Member=Component X5 Pins 17x2.54

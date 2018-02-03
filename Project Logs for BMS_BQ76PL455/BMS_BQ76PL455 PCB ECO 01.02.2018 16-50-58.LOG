@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=POWER_CONTROL Pin=U1-19
+Added Pin To Net: NetName=WAKEUP Pin=U1-19
+Added Pin To Net: NetName=WAKEUP Pin=U4-49
+Added Net: Name=WAKEUP

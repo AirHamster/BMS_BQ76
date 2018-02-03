@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=WAKEUP Pin=U1-19
+Removed Pin From Net: NetName=WAKEUP Pin=U4-49
+Added Pin To Net: NetName=WAKEUP Pin=U1-28
+Added Pin To Net: NetName=BAL0 Pin=X8-2
+Added Pin To Net: NetName=TOP_CELL Pin=X8-3
+Added Pin To Net: NetName=TOP_CELL Pin=X11-1
+Added Pin To Net: NetName=BAL0 Pin=X11-2
+Added Pin To Net: NetName=TEMPERATURE Pin=U1-19
+Added Pin To Net: NetName=TEMPERATURE Pin=X8-6
+Added Net: Name=TEMPERATURE

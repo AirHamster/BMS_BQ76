@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=AGND Pin=T1-1
+Change Net Name : Old Net Name=AGND New Net Name=GNDA

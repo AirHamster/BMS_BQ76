@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=U12-1
+Removed Pin From Net: NetName=+5V Pin=U12-3
+Removed Pin From Net: NetName=+3.3V Pin=U12-4
+Removed Member From Class: ClassName=BMS_BQ76PL455 Member=U12
+Added Component: Designator=U5(SOT-223_N)
+Added Pin To Net: NetName=+3.3V Pin=U5-2
+Added Pin To Net: NetName=+5V Pin=U5-3
+Added Pin To Net: NetName=+3.3V Pin=U5-4
+Added Member To Class: ClassName=BMS_BQ76PL455 Member=Component U5 LD1117AS12TR

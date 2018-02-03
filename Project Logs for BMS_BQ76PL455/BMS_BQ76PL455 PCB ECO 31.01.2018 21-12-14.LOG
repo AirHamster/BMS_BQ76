@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=+12V Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=+12V Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=+5V Pin=C21-2
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=+3.3V Pin=C22-2
+Change Component Footprint: Designator=C20 Old Footprint=C0805 New Footprint=CAP_EL_SMD_6.3mm
+Change Component Footprint: Designator=C21 Old Footprint=C0805 New Footprint=CAP_EL_SMD_6.3mm
+Change Component Footprint: Designator=C19 Old Footprint=C0805 New Footprint=Cap_El_SMD_10mm
+Change Component Comment : Designator=C20 Old Comment=100nF New Comment=6.3V
+Change Component Comment : Designator=C21 Old Comment=100nF New Comment=6.3V
+Change Component Comment : Designator=C19 Old Comment=100nF New Comment=470uF
+Added Pin To Net: NetName=+12V Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=+5V Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=+3.3V Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=X3-1
+Added Net: Name=NetL1_1
+Added Member To Class: ClassName=BMS_BQ76PL455 Member=Component C19 470uF
+Added Member To Class: ClassName=BMS_BQ76PL455 Member=Component C20 6.3V
+Added Member To Class: ClassName=BMS_BQ76PL455 Member=Component C21 6.3V

@@ -1,0 +1,4 @@
+Added Component: Designator=T1(POLY_TIE_1x2)
+Added Pin To Net: NetName=GNDA Pin=T1-1
+Added Pin To Net: NetName=GND Pin=T1-2
+Added Member To Class: ClassName=BMS_BQ76PL455 Member=Component T1 Poly_tie
